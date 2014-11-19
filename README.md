@@ -31,7 +31,8 @@ Then, you can migrate database:
 
 And now you are good to go and run the backend:
 
-    go run main.go
+    go build
+    ./agora-api
 
 # Testing
 
